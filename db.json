@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Draco",
+      "image": "https://images.mattel.com/scene7/GDJ71_01?$oslarge$&wid=412&hei=412",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "robo dog",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41GW7TS0SHL._AC_SX425_.jpg",
+      "likes": 1,
+      "id": 10
+    },
+    {
+      "name": "Rainbow",
+      "image": "https://cdn.shoplightspeed.com/shops/613246/files/14834740/800x1024x2/sunnylife-rainbow-shaped-towel.jpg",
+      "likes": 2,
+      "id": 13
+    },
+    {
+      "name": "MacBook",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16touch-space-select-201911?wid=1808&hei=1686&fmt=jpeg&qlt=80&.v=1572825197207",
+      "likes": 3,
+      "id": 14
     }
   ]
 }
